@@ -1,8 +1,16 @@
-__project__ = 'OCRErrorCorrectpy3'
-__author__ = 'jcavalie'
-__email__ = "Jcavalieri8619@gmail.com"
-__date__ = '8/31/14'
+# Natural Language Toolkit: Hidden Markov Model
+#
+# Copyright (C) 2001-2016 NLTK Project
+# Author: Trevor Cohn <tacohn@csse.unimelb.edu.au>
+#         Philip Blunsom <pcbl@csse.unimelb.edu.au>
+#         Tiago Tresoldi <tiago@tresoldi.pro.br> (fixes)
+#         Steven Bird <stevenbird1@gmail.com> (fixes)
+#         Joseph Frazee <jfrazee@mail.utexas.edu> (fixes)
+#         Steven Xu <xxu@student.unimelb.edu.au> (fixes)
+# URL: <http://nltk.org/>
+# For license information, see LICENSE.TXT
 
+#MOST of this is NLTK source but I made some modifications -JPC
 import itertools
 import pickle
 
