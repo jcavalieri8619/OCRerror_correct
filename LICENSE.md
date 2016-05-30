@@ -1,5 +1,7 @@
 The MIT License (MIT)
 
+Copyright (c) NLTK
+
 Copyright (c) 2016 jcavalieri8619
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
