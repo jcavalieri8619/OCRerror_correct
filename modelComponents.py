@@ -12,7 +12,7 @@ import multiprocessing
 import regex
 from nltk.util import ngrams
 
-from ParallelGlobal import parallelCorpora
+from ParallelOCRalign_Global import parallelCorpora
 
 
 def errorModelComponents( ):
