@@ -1,9 +1,3 @@
-__project__ = 'OCRErrorCorrectpy3'
-__author__ = 'jcavalie'
-__email__ = "Jcavalieri8619@gmail.com"
-__date__ = '8/14/14'
-
-
 # -*- coding: utf-8 -*-
 # Natural Language Toolkit: Probability and Statistics
 #
@@ -18,6 +12,9 @@ __date__ = '8/14/14'
 #
 # URL: <http://nltk.org/>
 # For license information, see LICENSE.TXT
+
+
+#most of this is straight NLTK source but I made some modifications-JPC
 
 """
 Classes for representing and processing probabilistic information.
