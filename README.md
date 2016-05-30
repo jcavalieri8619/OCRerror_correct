@@ -4,8 +4,8 @@ OCRed 1911 Britannica and a hand corrected version provided by project Gutenberg
 provide training data for the HMM which operates at the word and substring level simultaneously.
 The HMM word level source model is provided by Microsofts Ngram server and the character level source 
 model is generated from a recent Wikipedia dump. Using Wikipedia is extremely helpful because the 1911 
-Britannica contains many different languages and some of these non-english words are OCR errors so the 
-German and French that appears in the Wikipedia dump gives the model the ability to handle some of these
+Britannica contains many different languages and some of these non-english words are OCR errors--the 
+German and French words that appear in the Wikipedia dump gives the model the ability to handle some of these
 OCR errors.
 
 The HMM is modified from NLTK source. Right now I am getting 90% accuracy at correcting OCR errors but there are still improvements to be made. The OCR word level error alignment algorithm generated roughly 150,000 alignments from volumes 1 to 17 of 1911 Britannica--I've provided them here in the file "all_WorldMappings_taggedV1_17.txt"
