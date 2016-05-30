@@ -8,8 +8,8 @@ Britannica contains many different languages and some of these non-english words
 German and French that appears in the Wikipedia dump gives the model the ability to handle some of these
 OCR errors.
 
-The HMM is modified from NLTK source. Right now I am getting 90% accuracy at correcting OCR errors but there are still improvements to be made. The OCR word level error alignment algorithm generated roughly 150,000 alignments that I am happy
-to open source if anyone needs.
+The HMM is modified from NLTK source. Right now I am getting 90% accuracy at correcting OCR errors but there are still improvements to be made. The OCR word level error alignment algorithm generated roughly 150,000 alignments from volumes 1 to 17 of 1911 Britannica--I've provided them here in the file "all_WorldMappings_taggedV1_17.txt"
+
 
 OCR error word alignments:
 
