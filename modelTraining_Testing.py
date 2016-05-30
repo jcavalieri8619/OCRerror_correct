@@ -12,7 +12,7 @@ import statistics
 import globalModelParameters
 from HiddenMarkovModel import HiddenMarkovModelTrainer
 from partitionStrAlignment import partitionStrAlignments
-from ParallelGlobal import ErrorContext
+from ParallelOCRalign_Global import ErrorContext
 from ErrorCorrector import correctError
 
 
