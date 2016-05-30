@@ -11,7 +11,7 @@ import math
 
 
 class LookupService( object ):
-    def __init__( self, token = '8a95a6d9-71c7-4cc1-8ffd-082c9bd3f5f1', model = None, serviceUri = None ):
+    def __init__( self, token = '<MSFT TOKEN GOES HERE>', model = None, serviceUri = None ):
         self.token = token
         if (token is None):
             self.token = os.getenv( 'NGRAM_TOKEN' )
