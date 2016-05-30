@@ -14,7 +14,7 @@ from difflib import SequenceMatcher
 import regex
 from nltk.probability import ConditionalFreqDist
 
-from ParallelGlobal import OCRalignment
+from ParallelOCRalign_Global import OCRalignment
 
 
 
