@@ -15,8 +15,7 @@ OCR error word alignments:
 
 [ 25 characters of left context <(trueWord,OCRerror)> 25 characters of right context ]
 It looks as though there are two identical lines of text showing the same alignment; in fact, 
-the top line of every pair is from the OCR text and the bottom line is from the original, correct text.
-Some OCR context will have OCR errors which are given their own alignments.
+the top line of every pair contains left and right context from OCR text while the bottom line's left and right context is from the original, correct text. Some OCR context will have OCR errors which are given their own alignments.
 
 
 efore strangers, as they <(believe:beh'eve)>	 that to reveal the m [REG]
