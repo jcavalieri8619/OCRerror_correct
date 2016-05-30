@@ -19,29 +19,24 @@ where the top line is OCR context and bottom line is true context.
 
 
 efore strangers, as they <(believe:beh'eve)>	 that to reveal the m [REG]
-
 efore strangers, as they <(believe:beh'eve)>	 that to reveal the m [REG]
 
 
 
 j. spon's histoire de la <(republique:rtpublique)>	 de geneve. a collect [REG]
-
 j. spon's histoire de la <(republique:rtpublique)>	 de geneve. a collect [REG]
 
 
 
 ccordance with a clearly <(defined:denned)>	 system, and admirabl [REG]
-
 ccordance with a clearly <(defined:denned)>	 system, and admirabl [REG]
 
 
 
 had sent. he also threw <(himself:limself)>	 at his guest's feet, [REG]
-
 had sent. he also threw <(himself:limself)>	 at his guest's feet, [REG]
 
 
 
 twards. h is the garden, <(cultivated:cujtivated)>	 by the occupant of t [REG]
-
 twards. h is the garden, <(cultivated:cujtivated)>	 by the occupant of t [REG]
