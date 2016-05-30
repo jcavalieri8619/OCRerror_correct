@@ -11,7 +11,7 @@ import CharacterAligner
 from locateErrorWindows import determineErrWindows
 from generateSubstringMappings import genSubstrMaps
 from spellingErrorStats import OCRErrorStats
-from ParallelGlobal import Manager
+from ParallelOCRalign_Global import Manager
 
 
 _CORRECT = 0
