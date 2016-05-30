@@ -11,3 +11,23 @@ OCR errors.
 The HMM is modified from NLTK source. Right now I am getting 90% accuracy at correcting OCR errors but there are still improvements to be made. The OCR word level error alignment algorithm generated roughly 150,000 alignments that I am happy
 to open source if anyone needs.
 
+OCR error word alignments:
+
+[ 25 characters of left context <(trueWord,OCRerror)> 25 characters of right context ]
+where the top line is OCR context and bottom line is true context.
+[REG] is a meta-info tag
+
+efore strangers, as they <(believe:beh'eve)>	 that to reveal the m [REG]
+efore strangers, as they <(believe:beh'eve)>	 that to reveal the m [REG]
+
+j. spon's histoire de la <(republique:rtpublique)>	 de geneve. a collect [REG]
+j. spon's histoire de la <(republique:rtpublique)>	 de geneve. a collect [REG]
+
+ccordance with a clearly <(defined:denned)>	 system, and admirabl [REG]
+ccordance with a clearly <(defined:denned)>	 system, and admirabl [REG]
+
+had sent. he also threw <(himself:limself)>	 at his guest's feet, [REG]
+had sent. he also threw <(himself:limself)>	 at his guest's feet, [REG]
+
+twards. h is the garden, <(cultivated:cujtivated)>	 by the occupant of t [REG]
+twards. h is the garden, <(cultivated:cujtivated)>	 by the occupant of t [REG]
