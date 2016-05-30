@@ -8,9 +8,9 @@ from collections import deque
 import pickle
 import sys
 
-from ParallelGlobal import Manager, parallelCorpora, sharedSet, ErrorContext
-from ParallelConsumer import makeConsumer, initConsumer
-from ParallelProducer import produceOCRErrors
+from ParallelOCRalign_Global import Manager, parallelCorpora, sharedSet, ErrorContext
+from ParallelOCRalign_Consumer import makeConsumer, initConsumer
+from ParallelOCRalign_Producer import produceOCRErrors
 
 
 _PICKLE = True
