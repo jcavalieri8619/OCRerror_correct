@@ -9,6 +9,12 @@ optimal candidate. Each candidate shows its associated log probabilities for the
 and [lang] is the word level trigram language model. [total] is weights sum of all components where we are summing 
 because we are in log probability space. 
 
+[maxPartition] shows the sequence of most probable substring mappings where each tuple if of the form
+(error_substring,candidate_substring) and you should think of it in terms of a noisy channel so that the 
+noisy channel transforms the true word into ORC word via the sequence of substring mappings. For example
+if the true word is 'John' and the OCR error is 'iuhn' then a typical mapping might be
+[(i,j),(u,o),(hn,hn)]
+
 The accuracy is just the standard (num correct predictions)/(num examples)
 
 ---------------------------------------------------------------------------------------
