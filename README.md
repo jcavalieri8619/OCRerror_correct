@@ -1,3 +1,6 @@
+I've included an example output of testing in example_output.txt--this was run on a test set of OCR errors 
+not seen during training.
+
 This is designed to take two parallel corpora of OCR text and original text as input. It will word 
 align the OCR errors with their correct couterparts in the original text. We were using the an
 OCRed 1911 Britannica and a hand corrected version provided by project Gutenberg. The alignments 
