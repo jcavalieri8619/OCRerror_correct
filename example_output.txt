@@ -13,7 +13,7 @@ because we are in log probability space.
 (error_substring,candidate_substring) and you should think of it in terms of a noisy channel so that the 
 noisy channel transforms the true word into ORC word via the sequence of substring mappings. For example
 if the true word is 'John' and the OCR error is 'iuhn' then a typical mapping might be
-[(i,j),(u,o),(hn,hn)].  There are many partitions generated for each pair of  OCR error and candidate corrections
+[(i,j),(u,o),(hn,hn)].  There are many partitions generated for each pair of  OCR error and candidate correction
 but only most probable shown here
 
 The accuracy is just the standard (num correct predictions)/(num examples)
